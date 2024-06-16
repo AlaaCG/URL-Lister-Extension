@@ -9,7 +9,6 @@ https://github.com/AlaaCG/URL-Lister-Extension/assets/85305101/42aa16dc-be5c-4f4
 
 
 ## How to use
----
 you can name the file, click get Links and a .urls file will be downloaded, that you can use to open the tabs back.
 
 ## Why? 
